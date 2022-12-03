@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# Leet Code Solutions
 
 Solved Leet Code Problems.
 
