@@ -1,4 +1,4 @@
-/* Solution of Loot Code Problem : 344. Reverse String */
+/* Solution of Loot Code Problem : 389. Find the Difference */
 
 /**
  * @param {string} s
