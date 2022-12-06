@@ -7,6 +7,8 @@ Solved Leet Code Problems.
 - [557. Reverse Words in a String III](./557.Reverse-Words-in-a-String-III.js)
 - [448. Find All Numbers Disappeared in an Array](./448.Find-All-Numbers-Disappeared-in-an-Array.js)
 - [709. To Lower Case](./709.-To-Lower-Case.js)
+- [9. Palindrome Number](./9.Palindrome-Number.js)
+- [283. Move Zeroes](./283.Move-Zeroes.js)
 
 ## Author
 
