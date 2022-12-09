@@ -9,6 +9,7 @@ Solved Leet Code Problems.
 - [709. To Lower Case](./709.-To-Lower-Case.js)
 - [9. Palindrome Number](./9.Palindrome-Number.js)
 - [283. Move Zeroes](./283.Move-Zeroes.js)
+- [258. Add Digits](./258.Add-Digits.js)
 
 ## Author
 
