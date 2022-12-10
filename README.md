@@ -10,6 +10,10 @@ Solved Leet Code Problems.
 - [9. Palindrome Number](./9.Palindrome-Number.js)
 - [283. Move Zeroes](./283.Move-Zeroes.js)
 - [258. Add Digits](./258.Add-Digits.js)
+- [1108. Defanging an IP Address](./1108.Defanging-an-IP-Address.js)
+- [1748. Sum of Unique Elements](./1748.Sum-of-Unique-Elements.js)
+- [1822. Sign of the Product of an Array](./1822.Sign-of-the-Product-of-an-Array.js)
+- [2129. Capitalize the Title](./2129.Capitalize-the-Title.js)
 
 ## Author
 
