@@ -14,6 +14,7 @@ Solved Leet Code Problems.
 - [1748. Sum of Unique Elements](./1748.Sum-of-Unique-Elements.js)
 - [1822. Sign of the Product of an Array](./1822.Sign-of-the-Product-of-an-Array.js)
 - [2129. Capitalize the Title](./2129.Capitalize-the-Title.js)
+- [169. Majority Element](./169.Majority-Element.js)
 
 ## Author
 
