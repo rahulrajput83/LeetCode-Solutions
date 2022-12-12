@@ -16,6 +16,7 @@ Solved Leet Code Problems.
 - [2129. Capitalize the Title](./2129.Capitalize-the-Title.js)
 - [169. Majority Element](./169.Majority-Element.js)
 - [1480. Running Sum of 1d Array](./1480.Running-Sum-of-1d-Array.js)
+- [1528. Shuffle String](./1528.Shuffle-String.js)
 
 ## Author
 
